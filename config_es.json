@@ -41,24 +41,27 @@
       "radius": 2.0,
       "items": [
         {
+          "category": 481,
           "image": "https://tumundototal.com/media/amasty/bannerslider/banner-1.jpg",
           "padding": 5.0
         },
         {
+          "category": 501,
           "image": "https://tumundototal.com/media/amasty/bannerslider/banner-2.jpg",
           "padding": 5.0
         },
         {
+          "category": 456,
           "image": "https://tumundototal.com/media/amasty/bannerslider/banner-3.jpg",
           "padding": 5.0
         },
         {
-          "category": 2426,
+          "category": 2494,
           "image": "https://tumundototal.com/media/amasty/bannerslider/banner-4.jpg",
           "padding": 5.0
         },
         {
-          "category": 2485,
+          "category": 2426,
           "image": "https://tumundototal.com/media/amasty/bannerslider/banner-5.jpg",
           "padding": 5.0
         }
@@ -70,56 +73,52 @@
       "height": 0.2,
       "items": [
         {
-          "image": "https://tumundototal.com/media/wysiwyg/apaisados-1.png",
+          "category": 456,
+          "image": "https://tumundototal.com/media/wysiwyg/apaisados-1.jpg",
           "padding": 5.0
         }
       ],
       "marginTop": 10.0
     },
     {
-      "name": "Calzado",
+      "name": "¡Llegaron nuevos modelos de celulares!",
       "image": "",
       "layout": "twoColumn",
-      "category": 511
-    },
-    {
-      "name": "Ropa",
-      "image": "",
-      "layout": "twoColumn",
-      "category": 501
+      "category": 456
     },
     {
       "layout": "bannerImage",
       "height": 0.25,
       "items": [
         {
-          "category": 478,
-          "image": "https://tumundototal.com/media/wysiwyg/apaisados-2.png",
+          "category": 2494,
+          "image": "https://tumundototal.com/media/wysiwyg/apaisados-2.jpg",
           "padding": 5.0
         }
       ]
     },
-    {
-      "name": "Licores",
+     {
+      "name": "Pensamos en los regalos para estas Navidades",
       "image": "",
       "layout": "twoColumn",
-      "category": 478
+      "category": 2494
     },
     {
       "layout": "bannerImage",
       "height": 0.25,
       "items": [
         {
-          "image": "https://tumundototal.com/media/wysiwyg/apaisados-3.png",
+          "category": 2426,
+          "image": "https://tumundototal.com/media/wysiwyg/apaisados-3.jpg",
           "padding": 5.0
         }
       ]
     },
     {
-      "name": "Televisores",
+      "name": "¡Feliz Navidad y Próspero año nuevo 2023!",
       "image": "",
       "layout": "twoColumn",
-      "category": 569
+      "category": 2426
     },
     {
       "layout": "bannerImage",
@@ -133,7 +132,7 @@
       ]
     },
     {
-      "name": "Nuestros productos a 5$ ",
+      "name": "¡No te quedes por fuera y aprovecha ya!",
       "image": "",
       "layout": "twoColumn",
       "category": 581
