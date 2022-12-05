@@ -5,7 +5,7 @@
       "showMenu": true,
       "showCart": true,
       "showSearch": false,
-      "showLogo": false
+      "showLogo": true
     },
     {
       "layout": "bannerImage",
@@ -169,55 +169,5 @@
       "showChat": true
     }
   ],
-   "EnableAttributesConfigurableProduct": [
-      "almacenamiento_memoria",
-      "color",
-      "color_calzado",
-      "Equipos",
-      "Estado",
-      "estampados",
-      "figuras",
-      "formas",
-      "fragancia",
-      "kimbeauty",
-      "laboratorio",
-      "merchant_center_category",
-      "miligramos_medicamentos",
-      "modelo",
-      "monederos",
-      "pantys",
-      "personajes",
-      "product_label_select",
-      "product_label_shape",
-      "soloentienda",
-      "talla",
-      "talla_en_cm",
-      "textos_de_franelas"
-    ],
-    "EnableAttributesLabelConfigurableProduct": [
-      "memoria",
-      "Color",
-      "COLOR Calzado",
-      "Equipos",
-      "Estado",
-      "ESTAMPADOS",
-      "FIGURAS",
-      "FORMAS",
-      "FRAGANCIA",
-      "KIM BEAUTY",
-      "laboratorio",
-      "Google Merchant Center Category",
-      "miligramos",
-      "Modelo",
-      "MONEDEROS",
-      "pantys",
-      "Personajes",
-      "Product Label Type",
-      "Product Label Shape",
-      "Disponibilidad",
-      "talla",
-      "Talla en cm",
-      "Estampados textuales"
-    ],
   "searchSuggestion": []
 }
