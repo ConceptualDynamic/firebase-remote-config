@@ -108,7 +108,7 @@
       "height": 0.25,
       "items": [
         {
-          "category": 2426,
+          "category": 557,
           "image": "https://tumundototal.com/media/wysiwyg/apaisados-3.png",
           "padding": 5.0
         }
@@ -118,14 +118,14 @@
       "name": "¡Lo mejor para regalar a tus seres queridos!",
       "image": "",
       "layout": "twoColumn",
-      "category": 2426
+      "category": 557
     },
     {
       "layout": "bannerImage",
       "height": 0.25,
       "items": [
         {
-          "category": 2556,
+          "category": 445,
           "image": "https://tumundototal.com/media/wysiwyg/apaisados-4.png",
           "padding": 5.0
         }
@@ -135,7 +135,7 @@
       "name": "¡Compra a precios súper bajos!",
       "image": "",
       "layout": "twoColumn",
-      "category": 2556
+      "category": 445
     }
   ],
   "Setting": {
